@@ -31,4 +31,4 @@ Then open http://localhost:8000/.
 
 GitHub Pages serves the root of the `main` branch. Update `index.html` and push to `main` to publish a new edition. `.nojekyll` keeps the site as plain static HTML; no build dependencies are required.
 
-This publication preserves the finished October 4, 2026 gallery edition, including its artwork captions, collection references, and source links. Consult each artwork's source record for attribution and reuse information.
+This publication uses the finished October 4, 2026 gallery edition, including its artwork captions, collection references, and source links. Its single-file navigation is corrected so gallery pages stay inside the selected artist's frame. Refreshing returns to that artist's home page; the artist links above can be shared directly. Consult each artwork's source record for attribution and reuse information.
